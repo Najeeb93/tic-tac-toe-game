@@ -1,0 +1,21 @@
+#Boxes{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10vw 10vw;
+    justify-content: center;
+    background-color: blueviolet;
+}
+
+.box {
+    width: 22vw;
+    height: 12vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+
+}
+.box img {
+    width: 70%;
+    height: 70%;
+  }
